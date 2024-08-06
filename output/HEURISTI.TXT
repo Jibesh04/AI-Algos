@@ -1,0 +1,10 @@
+{0, 0} --32--> {0, 4} ....along direction u
+{0, 4} --29--> {0, 8} ....along direction u
+{0, 8} --26--> {0, 12} ....along direction u
+{0, 12} --23--> {0, 16} ....along direction u
+{0, 16} --20--> {0, 20} ....along direction u
+{0, 20} --19--> {3, 20} ....along direction r
+{3, 20} --16--> {6, 20} ....along direction r
+{6, 20} --14--> {9, 20} ....along direction r
+{9, 20} --12--> {12, 20} ....along direction r
+{12, 20} --10--> {15, 20} ....along direction r
